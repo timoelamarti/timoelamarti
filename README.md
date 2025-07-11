@@ -30,5 +30,10 @@ I believe that **innovation & quality** are the foundation of every successful p
 
 
 ### 📊 My Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timoelamarti&layout=compact&theme=default)
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=timoelamarti&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
