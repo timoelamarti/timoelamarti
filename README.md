@@ -27,3 +27,8 @@ I'm **Hatim El Amarti**, a passionate **Web & Mobile Developer** and **Data Scie
 
 ### ⚡ Fun fact  
 I believe that **innovation & quality** are the foundation of every successful project! 🚀  
+
+
+### 📊 My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+
