@@ -35,5 +35,5 @@ I believe that **innovation & quality** are the foundation of every successful p
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?timoelamarti=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/timoelamarti=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
